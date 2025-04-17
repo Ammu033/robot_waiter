@@ -99,6 +99,8 @@
   
   <exec_depend>pal_map_manager</exec_depend>
   <exec_depend>pal_loc_measure</exec_depend>
+ 
+  
 
 
   <!-- The export tag contains other, unspecified, tags -->
